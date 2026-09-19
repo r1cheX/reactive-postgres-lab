@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: reactive-postgres-lab
+  r2dbc:
+    url: r2dbc:postgresql://localhost/student_lab
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}
