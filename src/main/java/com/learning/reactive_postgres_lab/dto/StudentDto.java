@@ -13,16 +13,18 @@ import java.util.List;
 @Getter
 @AllArgsConstructor
 public class StudentDto {
-
     @NotNull
-    private String name;
+    private String studentCode;
 
-    @Positive
-    private Integer age;
+    private String email;
+
+    private String firstName;
+
+    private String lastName;
 
     @NotNull
     private boolean active;
 
     @NotEmpty
-    private List<String> skills;
+    private List<String> listCourses;
 }

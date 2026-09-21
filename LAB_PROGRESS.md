@@ -1,20 +1,20 @@
 # Lab progress - reactive-postgres-lab
 
-Current level: **3 — Reactive PostgreSQL with R2DBC**
+Current level: **4 — Reactive SQL avanzado**
 
 ## Level 3 — Reactive PostgreSQL with R2DBC
 | Exercise | Status | Started | Done |
 |---|---|---|---|
-| configure PostgreSQL R2DBC driver | | | |
-| map Student entity | | | |
-| ReactiveCrudRepository CRUD | | | |
-| Mono vs Flux with PostgreSQL | | | |
-| verify end-to-end non-blocking flow | | | |
+| configure PostgreSQL R2DBC driver | completed | 2026-09-21 | 2026-09-21 |
+| map Student entity | completed | 2026-09-21 | 2026-09-21 |
+| ReactiveCrudRepository CRUD | completed | 2026-09-21 | 2026-09-21 |
+| Mono vs Flux with PostgreSQL | completed | 2026-09-21 | 2026-09-21 |
+| verify end-to-end non-blocking flow | completed | 2026-09-21 | 2026-09-21 |
 
 ## Level 4 — Reactive SQL avanzado
 | Exercise | Status | Started | Done |
 |---|---|---|---|
-| R2dbcEntityTemplate basic query | | | |
+| R2dbcEntityTemplate basic query | pending | 2026-09-21 | |
 | DatabaseClient basic query | | | |
 | dynamic query with 1 optional filter | | | |
 | dynamic query with 4 optional filters | | | |
